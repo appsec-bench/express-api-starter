@@ -48,6 +48,12 @@ pnpm test
 
 ## Development
 
+## Discount Policy
+
+Premium customers receive a 10% discount.
+
+Standard customers receive a 5% discount.
+
 ```
 pnpm run dev
 ```
